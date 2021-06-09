@@ -1,0 +1,16 @@
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\bin\Debug\net5.0\HelloYou.exe
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\bin\Debug\net5.0\HelloYou.deps.json
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\bin\Debug\net5.0\HelloYou.runtimeconfig.json
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\bin\Debug\net5.0\HelloYou.runtimeconfig.dev.json
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\bin\Debug\net5.0\HelloYou.dll
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\bin\Debug\net5.0\ref\HelloYou.dll
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\bin\Debug\net5.0\HelloYou.pdb
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\obj\Debug\net5.0\HelloYou.csproj.AssemblyReference.cache
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\obj\Debug\net5.0\HelloYou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\obj\Debug\net5.0\HelloYou.AssemblyInfoInputs.cache
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\obj\Debug\net5.0\HelloYou.AssemblyInfo.cs
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\obj\Debug\net5.0\HelloYou.csproj.CoreCompileInputs.cache
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\obj\Debug\net5.0\HelloYou.dll
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\obj\Debug\net5.0\ref\HelloYou.dll
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\obj\Debug\net5.0\HelloYou.pdb
+C:\Users\Liv\Desktop\repos\HelloYou\HelloYou\obj\Debug\net5.0\HelloYou.genruntimeconfig.cache
